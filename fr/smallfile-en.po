@@ -1,14 +1,14 @@
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
 msgid "A screenshot of a website using AMP."
-msgstr ""
+msgstr "Une capture d'écran d'un site Web utilisant AMP."
 
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
-msgstr ""
+msgstr "Une capture d'écran montrant amp-sidebar."
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
-msgstr ""
+msgstr "Une capture d'écran du site Web."
 
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials куепу"
