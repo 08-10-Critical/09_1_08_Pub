@@ -16,15 +16,15 @@ msgstr "AMP Brand Materials куепу"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
 msgid "AMP Caches & CORS"
-msgstr ""
+msgstr "Caches AMP et CORS"
 
 #: /views/partials/footer.j2:72
 msgid "AMP Contributor Summit 2019"
-msgstr ""
+msgstr "Sommet des contributeurs AMP 2019"
 
 #: /views/partials/banner.j2:5
 msgid "AMP Contributor Summit 2019 Applications Now Open"
-msgstr ""
+msgstr "Les candidatures pour le Sommet des contributeurs AMP 2019 sont désormais ouvertes"
 
 #: /views/partials/footer.j2:43
 msgid "AMP Framework"
